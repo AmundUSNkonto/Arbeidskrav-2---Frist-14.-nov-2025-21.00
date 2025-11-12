@@ -2,16 +2,20 @@
 """
 Created on Wed Oct 29 20:21:31 2025
 
-@author: rg425
+@author: Amund 
 """
+
+
+Koden er skrevet i Spyder og jeg bruker derfor #%% for å skille mellom oppgavene.
+
 
 #Oppgave 1
 
 alder = int(input("Hvilket år er du født?"))
                   
-print(2024-alder)
+print("Du var", 2024-alder,"år gammel i 2024") #Oppgaveteksten spesifiserer 2024
 
-#%%
+#%% 
 #Oppgave 2
 
 import math #Importerer math for å kunne bruke en funksjon for å runde opp.
@@ -114,6 +118,7 @@ plt.axvline(0, color='black') #Legger til vertikal origolinje i svart
 
 plt.grid() #Legger til rutenett
 plt.show() #Viser plottet 
+
 
 
 
