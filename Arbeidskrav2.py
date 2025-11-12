@@ -6,7 +6,7 @@ Created on Wed Oct 29 20:21:31 2025
 """
 
 
-Koden er skrevet i Spyder og jeg bruker derfor #%% for å skille mellom oppgavene.
+#Koden er skrevet i Spyder og jeg bruker derfor #%% for å skille mellom oppgavene.
 
 
 #Oppgave 1
@@ -118,6 +118,7 @@ plt.axvline(0, color='black') #Legger til vertikal origolinje i svart
 
 plt.grid() #Legger til rutenett
 plt.show() #Viser plottet 
+
 
 
 
